@@ -1,0 +1,5 @@
+纵坐标
+(疾病-健康)/(疾病+健康)
+横坐标
+15种参数
+g__Prevotella(01)	g__Akkermansia(02)	p__Bacteroidetes(03)	p__Firmicutes(04)	g__Bacteroides(05)	g__Bifidobacterium(06)	g__Clostridium_IV(07)	g__Clostridium_XI(08)	g__Clostridium_XlVa(09)	g__Clostridium_XlVb(10)	g__Lactobacillus(11)	g__Oscillibacter(12)	g__Parabacteroides(13)	p__Bacteroidetes/p__Firmicutes(14)	g__Prevotella/g__Bacteroides(15)
