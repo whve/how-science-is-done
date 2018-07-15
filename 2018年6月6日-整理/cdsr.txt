@@ -1,0 +1,12 @@
+[The Cochrane database of systematic reviews简述](https://www.ncbi.nlm.nih.gov/nlmcatalog?term=%22Cochrane+Database+Syst+Rev%22[Title+Abbreviation]&report=Full)
+
+[ Cochrane 干预措施系统评价手册-CochraneHandbookChineseDec2014.pdf](http://training.cochrane.org/zh-hans/cochrane-%E5%B9%B2%E9%A2%84%E6%8E%AA%E6%96%BD%E7%B3%BB%E7%BB%9F%E8%AF%84%E4%BB%B7%E6%89%8B%E5%86%8C-%E4%B8%AD%E6%96%87%E7%BF%BB%E8%AF%91%E7%89%88)
+
+[手册英文版](http://handbook-5-1.cochrane.org/)
+
+[revman下载](http://community.cochrane.org/help/tools-and-software/revman-5/revman-5-download)
+
+[Archie](http://community.cochrane.org/help/tools-and-software/archie)
+
+该杂志的文章分为两步：1.研究方案；2.全文。
+开始先选择某种干预措施对于疾病的题目，提交相应的系统评价小组，进行审核，题目通过后可以撰写研究方案，根据统一的cochrane book和工具（revman、cochrane archie），研究方案撰写完成后提交编辑部peer review。大约3-7个月不等，研究方案得以通过并发表，此时的文章仅为protocol，收录到cochrane图书馆，尚不能算SCI文章。再之后撰写全文，完成后再次进行编辑部的review，通过后才算正式发表，成为SCI文章。 
