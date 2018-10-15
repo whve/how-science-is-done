@@ -1,0 +1,25 @@
+AD数据相对较多,我想先从AD入手,做一下lncRNA与AD的关系的meta分析与生信分析.查了一下pubmed还没有相关的文献.
+最近一直在找AD的包含lncRNA数据库(类似cancer的TCGA数据库),看看能不能挖掘到相关基因.
+目前做了第一步
+1. 检索lncRNA与AD预后相关的文献,根据lncRNA数据库AD相关lncRNA做相互关系网络图.利用找到一个[Starbase数据库](http://starbase.sysu.edu.cn/index.php),可以查找到lncRNA的结合蛋白和其他RNA.做lncRNA与蛋白质做相互关系网络图.
+
+在Starbase数据库中查到的Alzheimer's disease 相关的lncRNA 与其结合的的蛋白质数量的统计:
+51A
+BACE1-AS
+BCYRN1 和6个蛋白质结合(eIF4AIII,FUS,U2AF65,TIAL1,UPF1,TDP43)
+CDKN2B-AS1和7个蛋白质结合(PTB,eIF4AIII,DGCR8,FUS,LIN28A,U2AF65,UPF1)
+GDNF-AS1
+HAR1A和FUS结合
+HAR1B和FUS结合
+LINC01616
+SNHG3和20个蛋白质结合
+SOX2-OT和3个蛋白质结合
+
+2. meta分析、敏感性性分析、亚组分析、检测发表偏倚等
+
+3. lncRNA与AD预后的相关性分析（挖掘AD病人的lncRNA数据-这个数据库还没有找到）
+
+
+可能用到的数据库:
+[Starbase数据库](http://starbase.sysu.edu.cn/index.php)
+
